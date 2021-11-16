@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Mukul
-- 👀 I’m interested in Comptitive programming
-- 🌱 I’m currently learning C Programming
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me:  <a href="mailto: mukuldeep63@gmail.com">mail</a>
-- <h1 align="center">
+<h1>👋 Hi, I’m Mukul<h1/>
+ <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/muKul0099/muKul0099/blob/main/25471.png" width="40px" style="max-width:100%;">
   </a>
@@ -12,8 +8,22 @@
     <img src="https://github.com/muKul0099/muKul0099/blob/main/25471.png" width="40px" />
   </a>
 </h1>
+<br/>
+  <h3>
+<li>👀 I’m interested in Comptitive programming<l/>
+<li>🌱 I’m currently learning C Programming<l/>
+<li>📫 How to reach me:  <a href="mailto: mukuldeep63@gmail.com">mail</a><l/>
+<h3/>
 
  <img src="https://github.com/muKul0099/muKul0099/blob/main/peopleworking.gif" align=right>
+ 
+ 
+ 
+ 
+
+
+
+<br/>
 
 <!---
 muKul0099/muKul0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
