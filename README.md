@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muKul0099
+- 👋 Hi, I’m Mukul
 - 👀 I’m interested in Comptitive programming
 - 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on web projects
