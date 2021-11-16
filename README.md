@@ -13,7 +13,7 @@
   </a>
 </h1>
 
- <img src="https://github.com/muKul0099/muKul0099/blob/main/giphy.gif" align=right>
+ <img src="https://github.com/muKul0099/muKul0099/blob/main/peopleworking.gif" align=right>
 
 <!---
 muKul0099/muKul0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
