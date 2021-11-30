@@ -17,17 +17,17 @@
  
  
  
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=angryl" alt="angryl" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/angryl?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/angryl?label=Stars" alt="Total Stars">
-</p>
+
 
  <img src="https://github.com/muKul0099/muKul0099/blob/main/peopleworking.gif" align=right>
  
  
  
- 
+ <p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=angryl" alt="angryl" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/angryl?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/angryl?label=Stars" alt="Total Stars">
+</p>
 
 
 
