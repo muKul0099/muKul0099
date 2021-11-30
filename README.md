@@ -21,7 +21,7 @@
 
  <img src="https://github.com/muKul0099/muKul0099/blob/main/peopleworking.gif" align=right>
  
- 
+ <br/>
  
  <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=angryl" alt="angryl" />
