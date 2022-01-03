@@ -23,7 +23,7 @@
 </p>
 
 
- <img src="https://github.com/muKul0099/muKul0099/blob/main/peopleworking.gif" align=right>
+ <img src="https://c.tenor.com/Qr46q411NwsAAAAC/work-working.gif" align=right>
  
  
  
